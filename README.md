@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data especially Data Analyst
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking for Opportunity on Data Analyst
-- 📫 How to reach me riezafaqih@gmail.com
+- 📫 How to reach me riezafaqih123@gmail.com
 
 
 <!---
