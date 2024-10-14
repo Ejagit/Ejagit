@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muh. Rieza Faqih Mumtaza
-- 👀 I’m interested in Data especially Data Analyst
+- 👀 I’m interested in Data especially Data Analyst and Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking for Opportunity on Data Analyst
+- 💞️ I’m looking for Opportunity on Data Analyst and Data Science
 - 📫 How to reach me riezafaqih123@gmail.com
 
 
